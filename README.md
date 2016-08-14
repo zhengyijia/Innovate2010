@@ -1,2 +1,2 @@
 # Innovate2010
-My opensource project.
+My open experiment task.
