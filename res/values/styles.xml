@@ -19,7 +19,6 @@
     </style>
     
     <style name="Theme.Start" parent="android:Theme">
-        <item name="android:windowIsTranslucent">true</item>
         <item name="android:windowNoTitle">true</item>
     </style>
 
