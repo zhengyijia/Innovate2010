@@ -1,0 +1,21 @@
+[{"pk": 1, "model": "innovate.blingcoord", "fields": {"city": "珠海市", 
+"name": "圆明新园", "longitude": "113.544479", "address": "香洲区九州大道兰埔路与白石路交界处", 
+"latitude": "22.246439"}}, {"pk": 2, "model": "innovate.blingcoord", "fields": {"city": 
+"珠海市", "name": "暨南大学珠海校区", "longitude": "113.540719", "address": "香洲区前山路206号", 
+"latitude": "22.256471"}}, {"pk": 3, "model": "innovate.blingcoord", 
+"fields": {"city": "珠海市", "name": "华发商都", "longitude": "113.516082", "address": 
+"香洲区珠海大道8号", "latitude": "22.231068"}}, {"pk": 4, "model": "innovate.blingcoord", 
+"fields": {"city": "珠海市", "name": "国艺都会影城", "longitude": "113.53197", "address": 
+"香洲区粤海西路17号都会立方广场6楼", "latitude": "22.243429"}}, {"pk": 5, "model": "innovate.blingcoord", 
+"fields": {"city": "珠海市", "name": "沃尔玛（前山店）", "longitude": "113.532516", "address": 
+"香洲区翠前北路与翠微西路交界处", "latitude": "22.261193"}}, {"pk": 6, "model": "innovate.blingcoord", 
+"fields": {"city": "珠海市", "name": "珠海市人民医院", "longitude": "113.582327", "address": 
+"康宁路79号", "latitude": "22.28027"}}, {"pk": 7, "model": "innovate.blingcoord", 
+"fields": {"city": "珠海市", "name": "海滨公园", "longitude": "113.592682", "address": 
+"香洲区海滨南路108号", "latitude": "22.262876"}}, {"pk": 8, "model": "innovate.blingcoord", 
+"fields": {"city": "珠海市", "name": "中山大学珠海校区", "longitude": "113.595815", "address": 
+"唐家湾中山大学珠海校区", "latitude": "22.347738"}}, {"pk": 9, "model": "innovate.blingcoord", 
+"fields": {"city": "珠海市", "name": "富华里", "longitude": "113.548399", "address": 
+"九洲大道与白石路交汇处", "latitude": "22.241142"}}, {"pk": 10, "model": "innovate.blingcoord", 
+"fields": {"city": "珠海市", "name": "扬名广场", "longitude": "113.5859", "address": 
+"香洲区凤凰南路1066号", "latitude": "22.281357"}}]

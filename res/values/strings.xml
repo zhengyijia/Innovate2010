@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Innovate 2010</string>
+    <string name="info_site">https://apps1.paypal-labs.com/ppi/innovate/mobile/legal/</string>
+    <string name="feeds_speakers">http://www.jiaozuoye.com/joj/upload/download/1959</string>
+    <string name="feeds_positions">http://www.jiaozuoye.com/joj/upload/download/1961</string>
+    <string name="temptext">temptext</string>
+
+</resources>
